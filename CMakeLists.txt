@@ -471,6 +471,7 @@ list(
 	"SIMULAVR"
 	"TWRAP"
 	"STEAMVR_LIGHTHOUSE"
+	"XREAL_AIR"
 	)
 
 # Package name needs to be known by the native code itself.
